@@ -20,7 +20,7 @@ I'm a 2026 B.E. Computer Science and Engineering graduate interested in building
 ## Featured Projects
 
 - **Self-Correcting RAG Agent** — https://github.com/tasleembeleri8-oss/Self-Correcting-Hybrid-RAG-Agent-for-PDFs
-- **URL Shortener with Analytics** — Add your repository link here once ready.
+- **URL Shortener with Analytics** — working on it
 - **Visitor Management System** — https://github.com/tasleembeleri8-oss/visitor_management
 
 ## Connect With Me
